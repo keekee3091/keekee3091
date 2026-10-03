@@ -44,8 +44,6 @@ I sit between **software engineering** and **market finance**. I build pricing e
 
 ## Selected projects
 
-> Add or fix the links below to match your exact repository names.
-
 ### 📐 [VaREngine](https://github.com/keekee3091/VaREngine)
 C++17 risk engine: Monte-Carlo simulation, Black-Scholes pricing and several VaR methodologies, with benchmarking integrated into CI/CD.
 
